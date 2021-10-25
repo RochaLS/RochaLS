@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! I'm Lucas Rocha 👋
 
-<!--
-**RochaLS/RochaLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently a Computing Studies student a [Douglas College](https://www.douglascollege.ca/) and also a student at @Rocketseat
+- 🌱 I’m currently learning React and NodeJS
+- 💡 I have experience creating native Swift apps
+- 👯 I’m looking to start collaborating on a variety of open source projects and participating in Hackathons
+- 📌 Based in Vancouver BC, Canada
+- 😄 Pronouns: He/Him
+- 📺🎮 I really gaming and watching TV shows and movies
+- 📧 Contact: ld.rocha@hotmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RochaLS&theme=outrun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=RochaLS&count_private=true&show_icons=true&theme=outrun)
+
+[![Linkedin badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=appveyor)](https://ca.linkedin.com/in/lucas-srocha)
+ 
