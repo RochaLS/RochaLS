@@ -6,7 +6,7 @@
 - 👯 I’m looking to start collaborating on a variety of open source projects and participating in Hackathons
 - 📌 Based in Vancouver BC, Canada
 - 😄 Pronouns: He/Him
-- 📺🎮 I really like gaming and watching TV shows and movies
+- 📺 🎮 I really like gaming and watching TV shows and movies
 - 📧 Contact: ld.rocha@hotmail.com
 
 
