@@ -1,7 +1,7 @@
 ### Hi there! I'm Lucas Rocha 👋
 
-- 🔭 I'm currently a Computing Studies student a [Douglas College](https://www.douglascollege.ca/) and also a student at [Rocketseat](https://www.rocketseat.com.br/)
-- 🌱 I’m currently learning React and NodeJS
+- 🔭 I'm recent grad from [Douglas College](https://www.douglascollege.ca/). Looking for opportunities!
+- 🌱 I’m currently building stuff with Java Springboot and Next.js
 - 💡 I have experience creating native Swift apps
 - 👯 I’m looking to start collaborating on a variety of open source projects and participating in Hackathons
 - 📌 Based in Vancouver BC, Canada
