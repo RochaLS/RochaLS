@@ -13,7 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RochaLS&theme=outrun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=RochaLS&count_private=true&show_icons=true&theme=outrun)
 
 [![Linkedin badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=appveyor)](https://ca.linkedin.com/in/lucas-srocha)
  
